@@ -20,10 +20,10 @@ import discord
 from utils import db
 
 # ---- 1. Bot Identity Emojis (edit these after uploading Application Emojis)
-BOT_SUCCESS = "<:success:0000000000000000001>"
-BOT_ERROR = "<:error:0000000000000000002>"
-BOT_WARNING = "<:warning:0000000000000000003>"
-BOT_LOGO = "<:panamera:0000000000000000004>"
+BOT_SUCCESS = "<:success:1524740558030114846>"
+BOT_ERROR = "<:error:1524740559548448779>"
+BOT_WARNING = "<a:warning:1524740563239174204>"
+BOT_LOGO = "<:panamera:1524740590833504326>"
 
 # All slot names that exist for Server Content Emojis, grouped for /help & /settings emojis
 CONTENT_EMOJI_SLOTS = [
